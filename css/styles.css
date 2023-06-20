@@ -1,4 +1,6 @@
 @charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Dancing Script&display=swap');
+
 /*!
 * Start Bootstrap - Agency v7.0.12 (https://startbootstrap.com/theme/agency)
 * Copyright 2013-2023 Start Bootstrap
@@ -129,7 +131,7 @@ h1, .h1 {
   }
 
 .textlogo{color:aqua;
-          font-family:time new roman;
+          font-family: 'Dancing Script', cursive;
 }
 
 h2, .h2 {

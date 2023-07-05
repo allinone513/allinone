@@ -11318,3 +11318,13 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 .pagelogo{font-family: 'Kaushan Script', cursive;
 }
+
+.contactar{color:white;
+   background-color: #222222;
+   text-decoration: none;
+   padding: 10px;
+   font-size: 17px;
+   border-radius:5px;}
+
+.precios{color:darkgreen;
+   display: inline;}   

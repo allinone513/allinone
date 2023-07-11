@@ -11317,7 +11317,10 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 
 .pagelogo{font-family: 'Kaushan Script', cursive;
-}
+   text-transform: capitalize;
+    font-size:50px;
+    text-shadow: 0 0 12px white;
+    padding: 0; margin: 0;}
 
 .contactar{color:white;
    background-color: #222222;

@@ -11067,7 +11067,7 @@ header.masthead .masthead-heading {
 #chicos .portfolio-item .portfolio-caption {
   padding: 1.5rem;
   text-align: center;
-  background-color: #999999;
+  background-color: #eeeeee;
 }
 #chicos .portfolio-item .portfolio-caption .portfolio-caption-heading {
   font-size: 1.5rem;
@@ -11169,7 +11169,7 @@ header.masthead .masthead-heading {
 #hogar .portfolio-item .portfolio-caption {
   padding: 1.5rem;
   text-align: center;
-  background-color: #999999;
+  background-color: #eeeeee;
 }
 #hogar .portfolio-item .portfolio-caption .portfolio-caption-heading {
   font-size: 1.5rem;
@@ -11497,5 +11497,10 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 
 
-#chicos{background-color: #999999 !important;}
-#hogar{background-color: #999999 !important;}
+#chicos{background-color: #eeeeee !important;}
+#hogar{background-color: #eeeeee !important;}
+
+#headingsection{font-family: 'Kaushan Script', cursive;
+     font-size:40px;
+    text-shadow: 0 0 12px black !important;
+    color:#f0cd2c;}
